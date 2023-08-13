@@ -27,6 +27,7 @@ main {
   align-items: center;
   position: relative;
   > div {
+    cursor: pointer;
     border: 0.1em solid rgba(0, 0, 0, 0.15);
     box-shadow: 0 0 0.3em rgba(0, 0, 0, 0.3),
       inset 0 6em 6em rgba(255, 255, 255, 0.1);
